@@ -1,1 +1,3 @@
-cl
+class Dog
+  def name= ()
+end
